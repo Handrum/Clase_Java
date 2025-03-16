@@ -18,3 +18,31 @@ public class HolaMundo {
 📌 **Objetivo**:
 Aprender los fundamentos de Java y desarrollar aplicaciones prácticas.
 ✨ ¡Vamos por más! 🚀
+
+# 📌 Variables en Java  
+
+Una variable es un contenedor que almacena datos que pueden cambiar durante la ejecución de un programa.  
+
+Una variable almacena un valor y dicho valor puede ser de un tipo de dato en particular. En Java tenemos los siguientes tipos de datos:  
+
+## 🔹 Tipos Primitivos  
+Son tipos de datos simples:  
+
+- **Enteros:** `byte`, `short`, `int`, `long`  
+  - Ejemplo: `-10`, `127`, etc.  
+- **Punto Flotante:** `float` y `double`  
+  - Ejemplo: `-12.6`, `3.1416`, etc.  
+- **Carácter:** `char`  
+  - Ejemplo: `'0'`, `'@'`, etc.  
+- **Booleano:** `boolean`  
+  - Ejemplo: `true`, `false`  
+
+## 🔹 Tipos Object (Referencia)  
+Almacenan referencias a objetos:  
+
+- **Cadenas:** `String`  
+  - Ejemplo: `"Karla"`  
+- **Arreglos:** `int[]`, `String[]`  
+- **Objetos de Clases:** Cualquier instancia de una clase definida por el usuario.  
+
+---  
