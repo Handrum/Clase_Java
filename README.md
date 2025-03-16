@@ -20,6 +20,7 @@ Aprender los fundamentos de Java y desarrollar aplicaciones prácticas.
 ✨ ¡Vamos por más! 🚀
 
 # 📌 Variables en Java  
+📌 Fuente: [GlobalMentoring.com.mx](https://www.GlobalMentoring.com.mx)
 
 Una variable es un contenedor que almacena datos que pueden cambiar durante la ejecución de un programa.  
 
