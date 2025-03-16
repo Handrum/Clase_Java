@@ -49,3 +49,19 @@ Almacenan referencias a objetos:
 # 📌 Sintaxis para definir Variables en Java
 
 Para definir una Variable se debe especificar el tipo de dato que va almacenar Variable, seguido del nombre de la variable. El valor se puede asignar al momento de la declaración o posteriormente.
+
+## 🔹 Ejemplo de Sintaxis de Variables en Java:
+```java
+tipo nombreDeLaVariable = Valor
+
+```
+## 🔹 **Ejemplos variables en Java**:
+
+```java
+- int Edad = 15; //Declaración y Asignación
+- double Salario; //Declaración de variable
+- salario = 5000,50; //Asignación posterior
+- String mensaje = "Hola Mundo"; //Variable tipo object
+    
+
+
