@@ -45,5 +45,7 @@ Almacenan referencias a objetos:
   - Ejemplo: `"Karla"`  
 - **Arreglos:** `int[]`, `String[]`  
 - **Objetos de Clases:** Cualquier instancia de una clase definida por el usuario.  
-
 ---  
+# 📌 Sintaxis para definir Variables en Java
+
+Para definir una Variable se debe especificar el tipo de dato que va almacenar Variable, seguido del nombre de la variable. El valor se puede asignar al momento de la declaración o posteriormente.
