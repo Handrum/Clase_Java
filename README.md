@@ -14,4 +14,5 @@ public class HolaMundo {
     }
 }
 
+```java
 **Clave**: 📌 Objetivo: Aprender los fundamentos de Java y desarrollar aplicaciones prácticas. ✨ ¡Vamos por más! 🚀
