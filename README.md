@@ -13,8 +13,3 @@ public class HolaMundo {
         System.out.println("Saludos");
     }
 }
-
-#
-📌 Objetivo: Aprender los fundamentos de Java y desarrollar aplicaciones prácticas.
-
-✨ ¡Vamos por más!
