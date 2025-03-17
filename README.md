@@ -98,7 +98,7 @@ tipo nombreDeLaVariable = Valor
 
 Los nombre de variables en JAVA son esenciales para la legibilidad y mantenibilidad del código. Seguir buenas prácticas ayuda a que el código sea más comprensible y profesional.
 
-## Reglas
+## 1️⃣ Reglas
 1. Debe comenzar con una letra, un símbolo de dolar ($) o guión bajo (_)
    Ej: nombre, _nombre, $nombre
 2. No puede comenzar con espacio ni caracteres especiales.
@@ -107,14 +107,17 @@ Los nombre de variables en JAVA son esenciales para la legibilidad y mantenibili
    Ej: No usar int, for, while, class, etc.
 4. Distingue entre mayúsculas y minúsculas.
    Ej: nombre, Nombre y NOMBRE son 3 variables distintas
+---
+## 2️⃣ Buenas prácticas en nombres de las variables
 
-1. **Enteros:** `byte`, `short`, `int`, `long`  
-   - Ejemplo: `-10`, `127`, etc.  
-2. **Punto Flotante:** `float` y `double`  
-   - Ejemplo: `-12.6`, `3.1416`, etc.  
-3. **Carácter:** `char`  
-   - Ejemplo: `'0'`, `'@'`, etc.  
-4. **Booleano:** `boolean`  
-   - Ejemplo: `true`, `false`
+1. **Usar Camel Case para nombres de variabñes:** Comienza con minúscula y cada nueva palabra su primer letra inicia con mayúscula.
+   Ej: nombreCompleto, edadPersona.
+2. **Ser descriptivo y claro:** Los nombres de las palabras deben describir claramente su propósito.
+   Ej: precioProducto, numeroTelefono (sin uso de acentos, solo caracteres soportados en el idioma inglés).
+4. **Prefijos y Sufijos claros (solo si es necesario):** prefijo 'is' y 'has' en tipos booleanos.
+   Ej: isActivo, hasPrecio
+5. **No abusar de abreviaturas:**
+   Ej: Usar totalPiezas en lugar de totPzs.
+---
 
 
