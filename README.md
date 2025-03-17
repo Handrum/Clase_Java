@@ -62,6 +62,35 @@ tipo nombreDeLaVariable = Valor
 - double Salario; //Declaración de variable
 - salario = 5000,50; //Asignación posterior
 - String mensaje = "Hola Mundo"; //Variable tipo object
+---
+```
+# 📌 Sintaxis para definir Variables
+
+```java
+//Tipos de Datos en Java
+        //Enteros (Su valor por default es 0)
+        byte tipoByte = 127;
+        System.out.println("tipoByte = " + tipoByte); //Concatenación de cadenas
+        short tipoShort = 32000;
+        int tipoInt = 2147483647;
+        long tipoLong = 987654321098765432L; // L o l para indicar que es tipo long
+                
+        //Punto (Su valor por default es 0.0)
+        float tipoFloat = 3.14F; // F o f para indicar que es tipo flotante
+        double tipoDouble = 3.1315; // D o d para indicar que es tipo double (opcional)
+                
+        //Caracter (Su valor por deafult es '\u0000') para indicar que el valor es 0 pero en el juego de caracteres UNICODE
+        char tipoChar = 'A'; //Caracteres del juego UNICODE
+        tipoChar = 65; //65 Representa la letra A en el juego de caraceres UNICODE
+        tipoChar = '@';
+                
+        //Booleano (Su valor por deafult es false)
+        boolean tipoBoolean = true;
+        tipoBoolean = false;
+                
+        //Tipos Object (Referencia)
+        String nombre = null; //si no se asigna un valor a la variable por default su valor es null - ausencia de referencia o ausencia de valor
+        nombre = "Juan Pérez";       
     
 
 
