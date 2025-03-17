@@ -92,6 +92,29 @@ tipo nombreDeLaVariable = Valor
         //Tipos Object (Referencia)
         String nombre = null; //si no se asigna un valor a la variable por default su valor es null - ausencia de referencia o ausencia de valor
         nombre = "Juan Pérez";       
-    
+---
+```
+# 📌 Reglas de Nombres de Variables en Java
+
+Los nombre de variables en JAVA son esenciales para la legibilidad y mantenibilidad del código. Seguir buenas prácticas ayuda a que el código sea más comprensible y profesional.
+
+## Reglas
+1. Debe comenzar con una letra, un símbolo de dolar ($) o guión bajo (_)
+   Ej: nombre, _nombre, $nombre
+2. No puede comenzar con espacio ni caracteres especiales.
+   Ej: nombreCliente
+3. No puede ser una palabra reservada de Java (keyword).
+   Ej: No usar int, for, while, class, etc.
+4. Distingue entre mayúsculas y minúsculas.
+   Ej: nombre, Nombre y NOMBRE son 3 variables distintas
+
+1. **Enteros:** `byte`, `short`, `int`, `long`  
+   - Ejemplo: `-10`, `127`, etc.  
+2. **Punto Flotante:** `float` y `double`  
+   - Ejemplo: `-12.6`, `3.1416`, etc.  
+3. **Carácter:** `char`  
+   - Ejemplo: `'0'`, `'@'`, etc.  
+4. **Booleano:** `boolean`  
+   - Ejemplo: `true`, `false`
 
 
