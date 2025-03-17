@@ -65,9 +65,10 @@ tipo nombreDeLaVariable = Valor
 ---
 ```
 # 📌 Sintaxis para definir Variables
+## Tipos de Datos en Java
 
 ```java
-//Tipos de Datos en Java
+
         //Enteros (Su valor por default es 0)
         byte tipoByte = 127;
         System.out.println("tipoByte = " + tipoByte); //Concatenación de cadenas
